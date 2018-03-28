@@ -106,6 +106,7 @@ function buildAPI(globalOptions, html, jar) {
     'sendTypingIndicator',
     'setMessageReaction',
     'setTitle',
+    'clickPostbackButton',
 
     // Deprecated features
     'getThreadHistoryDeprecated',
